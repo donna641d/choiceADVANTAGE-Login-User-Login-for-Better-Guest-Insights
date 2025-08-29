@@ -1,0 +1,7 @@
+.receipt-container {
+  padding: 20px;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  margin: 20px auto;
+  max-width: 600px;
+}
